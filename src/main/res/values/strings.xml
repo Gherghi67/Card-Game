@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Razboi</string>
+    <string name="razboi">Razboi</string>
+    <string name="play">Play!</string>
+    <string name="rules">Rules</string>
+    <string name="exit">Exit</string>
+    <string name="daCarte">Da carte!</string>
+    <string name="iale">Ia-le!</string>
+    <string name="returnButton">Meniu</string>
+    <string name="player1">Player 1 win!</string>
+    <string name="player2">Player 2 win!</string>
+</resources>
